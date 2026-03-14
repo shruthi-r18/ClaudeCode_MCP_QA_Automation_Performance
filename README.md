@@ -10,7 +10,7 @@ All prompts used to generate the code and tests are included in this repository.
 
 ## 📺 Watch the Video
 
-[Link to YouTube Video]
+https://www.youtube.com/watch?v=ZEIPVhEJQws
 
 ---
 
@@ -71,40 +71,6 @@ project-root/
 │       └── breakpoint-report/
 │
 └── prompts/                    # All Claude Code prompts used in the video
-    ├── mcp-server-prompt.md
-    ├── api-prompt.md
-    ├── smoke-test-prompt.md
-    ├── load-test-prompt.md
-    ├── spike-test-prompt.md
-    ├── stress-test-prompt.md
-    ├── endurance-test-prompt.md
-    ├── breakpoint-test-prompt.md
-    └── dashboard-report-prompt.md
+    
 ```
-
----
-
-## 🔗 API Endpoints Tested
-
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | /api/products | Retrieve all products |
-| GET | /api/inventory/{productId} | Check inventory for a product |
-| POST | /api/orders | Create a new order |
-| POST | /api/products/price-update | Update a product price |
-
----
-
-## 📊 Test Configuration
-
-| Test | Users | Ramp-Up | Duration | Purpose |
-|---|---|---|---|---|
-| Smoke | 5 | 5 sec | 60 sec | Basic sanity check |
-| Load | 20 | 20 sec | 120 sec | Normal traffic |
-| Spike | 50 | 5 sec | 60 sec | Sudden burst |
-| Stress | 40 | 30 sec | 120 sec | Beyond capacity |
-| Endurance | 15 | 15 sec | 300 sec | Sustained stability |
-| Breakpoint | 60 | 60 sec | 180 sec | Find breaking point |
-
----
 
