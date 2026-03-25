@@ -1,0 +1,15 @@
+# Node
+jmeter-mcp-server/node_modules/
+jmeter-mcp-server/build/
+
+# Gradle
+product-api/.gradle/
+product-api/build/
+
+# JMeter results (large binary/log files)
+performance-tests/results/*.jtl
+performance-tests/jmeter.log
+
+# OS
+.DS_Store
+Thumbs.db

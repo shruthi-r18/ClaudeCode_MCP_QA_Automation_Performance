@@ -1,0 +1,22 @@
+{
+  "name": "jmeter-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Apache JMeter - create, configure, run, and report on performance tests",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "glob": "^10.3.10",
+    "xml2js": "^0.6.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/xml2js": "^0.4.14",
+    "typescript": "^5.3.3"
+  }
+}

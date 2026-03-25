@@ -1,0 +1,22 @@
+[
+  {"productId": "PROD-001", "name": "Wireless Bluetooth Headphones", "price": 79.99, "stockStatus": "IN_STOCK", "category": "Electronics", "quantity": 61234150},
+  {"productId": "PROD-002", "name": "USB-C Fast Charger", "price": 24.99, "stockStatus": "IN_STOCK", "category": "Electronics", "quantity": 123465300},
+  {"productId": "PROD-003", "name": "Mechanical Keyboard", "price": 129.99, "stockStatus": "IN_STOCK", "category": "Electronics", "quantity": 85},
+  {"productId": "PROD-004", "name": "27-inch 4K Monitor", "price": 449.99, "stockStatus": "LOW_STOCK", "category": "Electronics", "quantity": 20018},
+  {"productId": "PROD-005", "name": "Java: The Complete Reference", "price": 45.00, "stockStatus": "IN_STOCK", "category": "Books", "quantity": 101200},
+  {"productId": "PROD-006", "name": "Clean Code", "price": 38.50, "stockStatus": "IN_STOCK", "category": "Books", "quantity": 175},
+  {"productId": "PROD-007", "name": "Design Patterns", "price": 52.99, "stockStatus": "IN_STOCK", "category": "Books", "quantity": 90},
+  {"productId": "PROD-008", "name": "The Pragmatic Programmer", "price": 49.99, "stockStatus": "LOW_STOCK", "category": "Books", "quantity": 5},
+  {"productId": "PROD-009", "name": "Stainless Steel Water Bottle", "price": 18.99, "stockStatus": "IN_STOCK", "category": "Home & Kitchen", "quantity": 8111500},
+  {"productId": "PROD-010", "name": "Non-Stick Frying Pan", "price": 34.99, "stockStatus": "IN_STOCK", "category": "Home & Kitchen", "quantity": 120},
+  {"productId": "PROD-011", "name": "Electric Kettle", "price": 29.99, "stockStatus": "IN_STOCK", "category": "Home & Kitchen", "quantity": 100200},
+  {"productId": "PROD-012", "name": "Bamboo Cutting Board Set", "price": 22.50, "stockStatus": "OUT_OF_STOCK", "category": "Home & Kitchen", "quantity": 0},
+  {"productId": "PROD-013", "name": "Yoga Mat", "price": 25.99, "stockStatus": "IN_STOCK", "category": "Sports", "quantity": 300},
+  {"productId": "PROD-014", "name": "Resistance Bands Set", "price": 15.99, "stockStatus": "IN_STOCK", "category": "Sports", "quantity": 450},
+  {"productId": "PROD-015", "name": "Adjustable Dumbbells", "price": 199.99, "stockStatus": "LOW_STOCK", "category": "Sports", "quantity": 10},
+  {"productId": "PROD-016", "name": "Running Shoes", "price": 89.99, "stockStatus": "IN_STOCK", "category": "Sports", "quantity": 1234575},
+  {"productId": "PROD-017", "name": "Cotton T-Shirt Pack (3)", "price": 29.99, "stockStatus": "IN_STOCK", "category": "Clothing", "quantity": 111600},
+  {"productId": "PROD-018", "name": "Denim Jeans", "price": 59.99, "stockStatus": "IN_STOCK", "category": "Clothing", "quantity": 180},
+  {"productId": "PROD-019", "name": "Winter Jacket", "price": 149.99, "stockStatus": "LOW_STOCK", "category": "Clothing", "quantity": 7},
+  {"productId": "PROD-020", "name": "Wool Socks (5 Pack)", "price": 19.99, "stockStatus": "IN_STOCK", "category": "Clothing", "quantity": 100400}
+]
